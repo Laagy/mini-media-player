@@ -1,0 +1,9 @@
+{
+  "name": "Mini Media Player (TTS Fix)",
+  "filename": "mini-media-player-bundle.js",
+  "hide_default_branch": true,
+  "homeassistant": "2025.1.0",
+  "render_readme": true,
+  "country": ["DE"],
+  "tags": ["lovelace", "card", "media-player"]
+}
