@@ -14,7 +14,7 @@ All credits belong to the original author **kalkih**.
 2. Click on the three dots (⋮) in the top right → **Custom repositories**
 3. Add the following repository:
    - **Repository URL**: `https://github.com/Laagy/mini-media-player`
-   - **Category**: `Lovelace`
+   - **Category**: `Dashboard`
 4. Click **Add**
 5. Search for "Mini Media Player" in HACS and install it
 
