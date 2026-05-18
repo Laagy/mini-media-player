@@ -1,25 +1,39 @@
+# Mini Media Player - TTS Fix (2026.5)
 
+**This is a fork of the original [mini-media-player](https://github.com/kalkih/mini-media-player) with a fix for the missing TTS input field after Home Assistant 2026.5.**
+
+All credits belong to the original author **kalkih**.
+
+---
+
+## Installation (This Fork)
+
+### HACS (recommended)
+
+1. Go to **HACS** → **Frontend**
+2. Click on the three dots (⋮) in the top right → **Custom repositories**
+3. Add the following repository:
+   - **Repository URL**: `https://github.com/Laagy/mini-media-player`
+   - **Category**: `Lovelace`
+4. Click **Add**
+5. Search for "Mini Media Player" in HACS and install it
+
+---
 
 # Mini Media Player
-
 [![](https://img.shields.io/github/release/kalkih/mini-media-player.svg?style=flat-square)](https://github.com/kalkih/mini-media-player/releases/latest)
 [![](https://img.shields.io/travis/com/kalkih/mini-media-player?style=flat-square)](https://travis-ci.org/kalkih/mini-media-player)
 
-This is only a fork with a TTS Text input Fix, all credits belong to the original poster kalkih
+This is only a fork with a TTS Text input Fix, all credits belong to the original poster kalkih.
 
 A minimalistic yet customizable media player card for [Home Assistant](https://github.com/home-assistant/home-assistant) Lovelace UI.
-
 Inspired by [Custom UI: Mini media player](https://community.home-assistant.io/t/custom-ui-mini-media-player/40135) and [custom-lovelace](https://github.com/ciotlosm/custom-lovelace).
 
 ![Preview Image](https://user-images.githubusercontent.com/457678/47517460-9282d600-d888-11e8-9705-cf9ec3698c3c.png)
 
-
 ## Installation
-
 ### HACS (recommended)
-
 This card is available in [HACS](https://github.com/hacs/integration) (Home Assistant Community Store).
-
 1. Install HACS if you don't have it already
 2. Open HACS in Home Assistant
 3. Go to "Frontend" section
