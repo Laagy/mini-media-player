@@ -1,3 +1,5 @@
+This is only a fork with a TTS Text input Fix, all credits belong to the original poster kalkih
+
 # Mini Media Player
 
 [![](https://img.shields.io/github/release/kalkih/mini-media-player.svg?style=flat-square)](https://github.com/kalkih/mini-media-player/releases/latest)
